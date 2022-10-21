@@ -1,0 +1,46 @@
+C:\Users\0030482213015\source\repos\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.csprojAssemblyReference.cache
+C:\Users\0030482213015\source\repos\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.Properties.Resources.resources
+C:\Users\0030482213015\source\repos\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.csproj.GenerateResource.cache
+C:\Users\0030482213015\source\repos\PTesteClasses\PTesteClasses\bin\Debug\PTesteClasses.exe.config
+C:\Users\0030482213015\source\repos\PTesteClasses\PTesteClasses\bin\Debug\PTesteClasses.exe
+C:\Users\0030482213015\source\repos\PTesteClasses\PTesteClasses\bin\Debug\PTesteClasses.pdb
+C:\Users\0030482213015\source\repos\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.exe
+C:\Users\0030482213015\source\repos\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.pdb
+C:\Users\isabe\Downloads\PTesteClasses\PTesteClasses\PTesteClasses\bin\Debug\PTesteClasses.exe.config
+C:\Users\isabe\Downloads\PTesteClasses\PTesteClasses\PTesteClasses\bin\Debug\PTesteClasses.exe
+C:\Users\isabe\Downloads\PTesteClasses\PTesteClasses\PTesteClasses\bin\Debug\PTesteClasses.pdb
+C:\Users\isabe\Downloads\PTesteClasses\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.csproj.AssemblyReference.cache
+C:\Users\isabe\Downloads\PTesteClasses\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\isabe\Downloads\PTesteClasses\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.frmPrincipal.resources
+C:\Users\isabe\Downloads\PTesteClasses\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.frmMensalista.resources
+C:\Users\isabe\Downloads\PTesteClasses\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.Properties.Resources.resources
+C:\Users\isabe\Downloads\PTesteClasses\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.csproj.GenerateResource.cache
+C:\Users\isabe\Downloads\PTesteClasses\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.csproj.CoreCompileInputs.cache
+C:\Users\isabe\Downloads\PTesteClasses\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.exe
+C:\Users\isabe\Downloads\PTesteClasses\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.pdb
+C:\Users\alex\Documents\PTesteClasses\PTesteClasses\PTesteClasses\bin\Debug\PTesteClasses.exe.config
+C:\Users\alex\Documents\PTesteClasses\PTesteClasses\PTesteClasses\bin\Debug\PTesteClasses.exe
+C:\Users\alex\Documents\PTesteClasses\PTesteClasses\PTesteClasses\bin\Debug\PTesteClasses.pdb
+C:\Users\alex\Documents\PTesteClasses\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\PTesteClasses\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex\Documents\PTesteClasses\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.frmPrincipal.resources
+C:\Users\alex\Documents\PTesteClasses\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.frmHorista.resources
+C:\Users\alex\Documents\PTesteClasses\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.frmMensalista.resources
+C:\Users\alex\Documents\PTesteClasses\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.Properties.Resources.resources
+C:\Users\alex\Documents\PTesteClasses\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.csproj.GenerateResource.cache
+C:\Users\alex\Documents\PTesteClasses\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\PTesteClasses\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.exe
+C:\Users\alex\Documents\PTesteClasses\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.pdb
+C:\Users\alex\Documents\jeferson\Atividade 5\PTesteClasses\bin\Debug\PTesteClasses.exe.config
+C:\Users\alex\Documents\jeferson\Atividade 5\PTesteClasses\bin\Debug\PTesteClasses.exe
+C:\Users\alex\Documents\jeferson\Atividade 5\PTesteClasses\bin\Debug\PTesteClasses.pdb
+C:\Users\alex\Documents\jeferson\Atividade 5\PTesteClasses\obj\Debug\PTesteClasses.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\jeferson\Atividade 5\PTesteClasses\obj\Debug\PTesteClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex\Documents\jeferson\Atividade 5\PTesteClasses\obj\Debug\PTesteClasses.frmPrincipal.resources
+C:\Users\alex\Documents\jeferson\Atividade 5\PTesteClasses\obj\Debug\PTesteClasses.frmHorista.resources
+C:\Users\alex\Documents\jeferson\Atividade 5\PTesteClasses\obj\Debug\PTesteClasses.frmMensalista.resources
+C:\Users\alex\Documents\jeferson\Atividade 5\PTesteClasses\obj\Debug\PTesteClasses.Properties.Resources.resources
+C:\Users\alex\Documents\jeferson\Atividade 5\PTesteClasses\obj\Debug\PTesteClasses.csproj.GenerateResource.cache
+C:\Users\alex\Documents\jeferson\Atividade 5\PTesteClasses\obj\Debug\PTesteClasses.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\jeferson\Atividade 5\PTesteClasses\obj\Debug\PTesteClasses.exe
+C:\Users\alex\Documents\jeferson\Atividade 5\PTesteClasses\obj\Debug\PTesteClasses.pdb
